@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+env.py
+.bash_history
+.python_history
+Dockerfile
+config.py
+xml_data.txt
+node_modules/
+blockChainAPI/db.json
